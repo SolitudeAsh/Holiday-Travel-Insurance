@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Operator: ashwin_ravi@hotmail.com
+Pega-Codeset-Name: Customer
+ArtifactVersion: 01.01.01
+Pega-Archive-Type: ApplicationBundle
+ArtifactType: application
+Pega-Codeset-Version: 06-01-01
+ArtifactName: BharatIn
+Name: BharatIn_010101_20240817T103946_GMT.zip
+Type: Product
+Synchronizable: false
+Product-Creation-Date: 2024-Aug-17 04:00:00
+Engine-Version: 08-24-01
+Export-Date: 2024-Aug-17 10:39:52
+Instance-Count: 4317
+Archive-Type: PegaArchive
+PRPC-Engine: 8.24.0 PRPC-8.24.0-52 ()
+
+Name: FileMetadata
+
